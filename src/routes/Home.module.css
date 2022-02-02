@@ -4,6 +4,13 @@
   justify-content: center;
 }
 
+.containerdetails {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+
 .loader {
   width: 100%;
   height: 100vh;
